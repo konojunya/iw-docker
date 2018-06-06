@@ -1,2 +1,2 @@
 # iw-docker
-Golang  + MySql + dep
+Golang + dep
